@@ -45,4 +45,4 @@ contract SmeshSlim {
                 companies[sender].status
                 );
         }
-}                                                                                                                                                                                                   
+}                                                                                                                                                                                                    
