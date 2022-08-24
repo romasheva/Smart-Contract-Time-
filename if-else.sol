@@ -33,17 +33,17 @@ contract SmeshSlim {
 
     function getCompany ()
         public view returns (
-            string memory name, 
-            uint age, 
-            uint workers, 
+            string memory name,
+            uint age,
+            uint workers,
             string memory status) {
             address sender = msg.sender;
             return (
-                companies[sender].name, 
-                companies[sender].age, 
-                companies[sender].workers, 
+                companies[sender].name,
+                companies[sender].age,
+                companies[sender].workers,
                 companies[sender].status
                 );
         }
 }
-                                                                                                                                                                                                                                                                                                                                                                      
+  
