@@ -9,7 +9,7 @@ contract TimeShop{
     address public owner;
     address public shopAddress;
     bool fullyPaid;
-
+ 
     event ItemFullyPaid(uint _price, address _shopAddress);
 
     constructor() {
