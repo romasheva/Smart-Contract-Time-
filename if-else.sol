@@ -45,7 +45,7 @@ contract SmeshSlim {
                 companies[sender].status
                 );
         }
-} 
+}  
 <<<<<<< HEAD
 
 =======
