@@ -44,5 +44,5 @@ contract SmeshSlim {
                 companies[sender].workers,
                 companies[sender].status
                 );
-        }                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+        }                                                                                                                                                                                                                                                                                                                                                                                                                                                               
  
