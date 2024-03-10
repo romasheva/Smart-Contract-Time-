@@ -48,5 +48,4 @@ contract TimeShop{
             emit ItemFullyPaid(price, shopAddress);
         }
     } 
-}                                                                                            
- 
+}   
